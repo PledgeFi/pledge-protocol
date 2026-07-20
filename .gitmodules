@@ -1,0 +1,11 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+	branch = v1.9.6
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+	branch = v5.0.2
+[submodule "lib/pledge-oracle"]
+	path = lib/pledge-oracle
+	url = https://github.com/pledge-finance/pledge-oracle.git
